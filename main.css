@@ -1,0 +1,17 @@
+body{
+	background-color: #131e21;
+}
+
+.t1{
+	color: red;
+	padding-top: 50px;
+	text-align: center;
+	font-size: 50px;
+}
+
+.t2{
+	color: blue;
+	padding-top: 100px;
+	text-align: center;
+	font-size: 35px;
+}
